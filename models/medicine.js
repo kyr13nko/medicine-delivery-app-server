@@ -7,8 +7,6 @@ const medicineSchema = new Schema({
   name: String,
   description: String,
   price: Number,
-  stock: Number,
-  // pharmacyIds: [{ type: Schema.Types.ObjectId, ref: "Pharmacy" }],
 });
 
 medicineSchema.post("save", handleMongooseError);

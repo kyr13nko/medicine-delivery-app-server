@@ -8,6 +8,7 @@ const pharmacySchema = new Schema({
   address: String,
   latitude: Number,
   longitude: Number,
+  medicines: [{ type: Schema.Types.ObjectId, ref: "medicine" }],
 });
 
 pharmacySchema.post("save", handleMongooseError);
