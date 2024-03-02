@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Paracetamol",
+    "description": "Pain reliever and fever reducer",
+    "price": 5.99,
+    "stock": 100,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Ibuprofen",
+    "description": "Nonsteroidal anti-inflammatory drug",
+    "price": 8.99,
+    "stock": 80,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Cough Syrup",
+    "description": "Relieves cough symptoms",
+    "price": 12.49,
+    "stock": 50,
+    "pharmacyIds": [1, 3]
+  },
+  {
+    "name": "Aspirin",
+    "description": "Blood thinner and pain reliever",
+    "price": 6.99,
+    "stock": 120,
+    "pharmacyIds": [1, 2, 3]
+  },
+  {
+    "name": "Antacid",
+    "description": "Relieves heartburn and indigestion",
+    "price": 4.49,
+    "stock": 90,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Antihistamine",
+    "description": "Treats allergy symptoms",
+    "price": 9.99,
+    "stock": 70,
+    "pharmacyIds": [1, 3]
+  },
+  {
+    "name": "Vitamin C",
+    "description": "Boosts immune system",
+    "price": 7.99,
+    "stock": 110,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Probiotic",
+    "description": "Supports digestive health",
+    "price": 15.99,
+    "stock": 60,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Hydrocortisone Cream",
+    "description": "Anti-itch and anti-inflammatory",
+    "price": 11.49,
+    "stock": 40,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Thermometer",
+    "description": "Digital thermometer for temperature measurement",
+    "price": 19.99,
+    "stock": 30,
+    "pharmacyIds": [3]
+  },
+  {
+    "name": "Albuterol Inhaler",
+    "description": "Relieves asthma symptoms",
+    "price": 25.99,
+    "stock": 25,
+    "pharmacyIds": [1, 3]
+  },
+  {
+    "name": "Insulin",
+    "description": "Regulates blood sugar",
+    "price": 30.49,
+    "stock": 20,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Antibiotic Ointment",
+    "description": "Prevents infection in minor cuts",
+    "price": 8.99,
+    "stock": 60,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Anti-fungal Cream",
+    "description": "Treats fungal skin infections",
+    "price": 12.99,
+    "stock": 45,
+    "pharmacyIds": [1, 3]
+  },
+  {
+    "name": "Allergy Eye Drops",
+    "description": "Relieves itchy and red eyes",
+    "price": 9.49,
+    "stock": 35,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Blood Pressure Monitor",
+    "description": "Measures blood pressure at home",
+    "price": 45.99,
+    "stock": 15,
+    "pharmacyIds": [1]
+  },
+  {
+    "name": "Nasal Decongestant",
+    "description": "Relieves nasal congestion",
+    "price": 6.49,
+    "stock": 55,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Throat Lozenges",
+    "description": "Soothes sore throat",
+    "price": 3.99,
+    "stock": 75,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Anti-diarrheal Medication",
+    "description": "Controls diarrhea symptoms",
+    "price": 7.49,
+    "stock": 40,
+    "pharmacyIds": [3]
+  },
+  {
+    "name": "Multivitamin",
+    "description": "Provides essential vitamins and minerals",
+    "price": 10.99,
+    "stock": 65,
+    "pharmacyIds": [1, 2, 3]
+  },
+  {
+    "name": "Motion Sickness Pills",
+    "description": "Prevents motion sickness",
+    "price": 14.49,
+    "stock": 30,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Pain Relief Patch",
+    "description": "Provides long-lasting pain relief",
+    "price": 9.99,
+    "stock": 50,
+    "pharmacyIds": [3]
+  },
+  {
+    "name": "Sunscreen SPF 30",
+    "description": "Protects against harmful UV rays",
+    "price": 12.99,
+    "stock": 40,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Dental Floss",
+    "description": "Promotes oral hygiene",
+    "price": 2.99,
+    "stock": 80,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Stomach Acid Reducer",
+    "description": "Treats heartburn and acid reflux",
+    "price": 8.49,
+    "stock": 35,
+    "pharmacyIds": [1]
+  },
+  {
+    "name": "Sleep Aid",
+    "description": "Promotes restful sleep",
+    "price": 15.99,
+    "stock": 25,
+    "pharmacyIds": [1, 3]
+  },
+  {
+    "name": "Disposable Face Masks",
+    "description": "Protects against airborne particles",
+    "price": 6.99,
+    "stock": 100,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Hand Sanitizer",
+    "description": "Kills germs on hands",
+    "price": 4.99,
+    "stock": 90,
+    "pharmacyIds": [1, 2]
+  },
+  {
+    "name": "Muscle Rub",
+    "description": "Relieves sore muscles",
+    "price": 11.99,
+    "stock": 45,
+    "pharmacyIds": [2, 3]
+  },
+  {
+    "name": "Fiber Supplement",
+    "description": "Promotes digestive health",
+    "price": 7.49,
+    "stock": 60,
+    "pharmacyIds": [1]
+  }
+]
