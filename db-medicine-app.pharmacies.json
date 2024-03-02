@@ -1,625 +1,405 @@
-[{
-  "_id": {
-    "$oid": "65e272159197d43c4e57ccc1"
+[
+  {
+    "_id": {
+      "$oid": "65e272159197d43c4e57ccc1"
+    },
+    "name": "Healthy Pharmacy",
+    "address": "123 Main Street, Cityville",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "medicines": [
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9a"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9b"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9d"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aaa"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aab"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aac"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aae"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aaf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab7"
+        }
+      }
+    ]
   },
-  "name": "Healthy Pharmacy",
-  "address": "123 Main Street, Cityville",
-  "latitude": 40.7128,
-  "longitude": -74.006,
-  "medicines": [
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9a"
-      },
-      "name": "Paracetamol",
-      "description": "Pain reliever and fever reducer",
-      "price": 5.99
+  {
+    "_id": {
+      "$oid": "65e272159197d43c4e57ccc2"
     },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9b"
+    "name": "QuickCare Pharmacy",
+    "address": "456 Oak Avenue, Townsville",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "medicines": [
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9b"
+        }
       },
-      "name": "Ibuprofen",
-      "description": "Nonsteroidal anti-inflammatory drug",
-      "price": 8.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9d"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9c"
+        }
       },
-      "name": "Aspirin",
-      "description": "Blood thinner and pain reliever",
-      "price": 6.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9e"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9d"
+        }
       },
-      "name": "Antacid",
-      "description": "Relieves heartburn and indigestion",
-      "price": 4.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9f"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9f"
+        }
       },
-      "name": "Antihistamine",
-      "description": "Treats allergy symptoms",
-      "price": 9.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa0"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa0"
+        }
       },
-      "name": "Vitamin C",
-      "description": "Boosts immune system",
-      "price": 7.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa1"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa1"
+        }
       },
-      "name": "Probiotic",
-      "description": "Supports digestive health",
-      "price": 15.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa2"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa2"
+        }
       },
-      "name": "Hydrocortisone Cream",
-      "description": "Anti-itch and anti-inflammatory",
-      "price": 11.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa3"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa3"
+        }
       },
-      "name": "Thermometer",
-      "description": "Digital thermometer for temperature measurement",
-      "price": 19.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa5"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa5"
+        }
       },
-      "name": "Insulin",
-      "description": "Regulates blood sugar",
-      "price": 30.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa6"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa6"
+        }
       },
-      "name": "Antibiotic Ointment",
-      "description": "Prevents infection in minor cuts",
-      "price": 8.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa7"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa7"
+        }
       },
-      "name": "Anti-fungal Cream",
-      "description": "Treats fungal skin infections",
-      "price": 12.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa8"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa8"
+        }
       },
-      "name": "Allergy Eye Drops",
-      "description": "Relieves itchy and red eyes",
-      "price": 9.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa9"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aaa"
+        }
       },
-      "name": "Blood Pressure Monitor",
-      "description": "Measures blood pressure at home",
-      "price": 45.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aaa"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aab"
+        }
       },
-      "name": "Nasal Decongestant",
-      "description": "Relieves nasal congestion",
-      "price": 6.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aab"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aac"
+        }
       },
-      "name": "Throat Lozenges",
-      "description": "Soothes sore throat",
-      "price": 3.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aac"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aad"
+        }
       },
-      "name": "Anti-diarrheal Medication",
-      "description": "Controls diarrhea symptoms",
-      "price": 7.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aae"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aaf"
+        }
       },
-      "name": "Motion Sickness Pills",
-      "description": "Prevents motion sickness",
-      "price": 14.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aaf"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab0"
+        }
       },
-      "name": "Pain Relief Patch",
-      "description": "Provides long-lasting pain relief",
-      "price": 9.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab0"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab1"
+        }
       },
-      "name": "Sunscreen SPF 30",
-      "description": "Protects against harmful UV rays",
-      "price": 12.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab1"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab2"
+        }
       },
-      "name": "Dental Floss",
-      "description": "Promotes oral hygiene",
-      "price": 2.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab2"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab4"
+        }
       },
-      "name": "Stomach Acid Reducer",
-      "description": "Treats heartburn and acid reflux",
-      "price": 8.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab3"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab5"
+        }
       },
-      "name": "Sleep Aid",
-      "description": "Promotes restful sleep",
-      "price": 15.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab4"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab6"
+        }
       },
-      "name": "Disposable Face Masks",
-      "description": "Protects against airborne particles",
-      "price": 6.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab6"
-      },
-      "name": "Muscle Rub",
-      "description": "Relieves sore muscles",
-      "price": 11.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab7"
-      },
-      "name": "Fiber Supplement",
-      "description": "Promotes digestive health",
-      "price": 7.49
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "65e272159197d43c4e57ccc2"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab7"
+        }
+      }
+    ]
   },
-  "name": "QuickCare Pharmacy",
-  "address": "456 Oak Avenue, Townsville",
-  "latitude": 34.0522,
-  "longitude": -118.2437,
-  "medicines": [
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9b"
-      },
-      "name": "Ibuprofen",
-      "description": "Nonsteroidal anti-inflammatory drug",
-      "price": 8.99
+  {
+    "_id": {
+      "$oid": "65e272159197d43c4e57ccc3"
     },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9c"
+    "name": "City Meds",
+    "address": "789 Pine Road, Villagetown",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "medicines": [
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9b"
+        }
       },
-      "name": "Cough Syrup",
-      "description": "Relieves cough symptoms",
-      "price": 12.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9d"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9c"
+        }
       },
-      "name": "Aspirin",
-      "description": "Blood thinner and pain reliever",
-      "price": 6.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9f"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9d"
+        }
       },
-      "name": "Antihistamine",
-      "description": "Treats allergy symptoms",
-      "price": 9.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa0"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78a9e"
+        }
       },
-      "name": "Vitamin C",
-      "description": "Boosts immune system",
-      "price": 7.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa1"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa0"
+        }
       },
-      "name": "Probiotic",
-      "description": "Supports digestive health",
-      "price": 15.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa2"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa1"
+        }
       },
-      "name": "Hydrocortisone Cream",
-      "description": "Anti-itch and anti-inflammatory",
-      "price": 11.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa3"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa2"
+        }
       },
-      "name": "Thermometer",
-      "description": "Digital thermometer for temperature measurement",
-      "price": 19.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa5"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa3"
+        }
       },
-      "name": "Insulin",
-      "description": "Regulates blood sugar",
-      "price": 30.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa6"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa4"
+        }
       },
-      "name": "Antibiotic Ointment",
-      "description": "Prevents infection in minor cuts",
-      "price": 8.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa7"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa6"
+        }
       },
-      "name": "Anti-fungal Cream",
-      "description": "Treats fungal skin infections",
-      "price": 12.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa8"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa7"
+        }
       },
-      "name": "Allergy Eye Drops",
-      "description": "Relieves itchy and red eyes",
-      "price": 9.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aaa"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa8"
+        }
       },
-      "name": "Nasal Decongestant",
-      "description": "Relieves nasal congestion",
-      "price": 6.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aab"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aa9"
+        }
       },
-      "name": "Throat Lozenges",
-      "description": "Soothes sore throat",
-      "price": 3.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aac"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aab"
+        }
       },
-      "name": "Anti-diarrheal Medication",
-      "description": "Controls diarrhea symptoms",
-      "price": 7.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aad"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aac"
+        }
       },
-      "name": "Multivitamin",
-      "description": "Provides essential vitamins and minerals",
-      "price": 10.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aaf"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aad"
+        }
       },
-      "name": "Pain Relief Patch",
-      "description": "Provides long-lasting pain relief",
-      "price": 9.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab0"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aae"
+        }
       },
-      "name": "Sunscreen SPF 30",
-      "description": "Protects against harmful UV rays",
-      "price": 12.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab1"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78aaf"
+        }
       },
-      "name": "Dental Floss",
-      "description": "Promotes oral hygiene",
-      "price": 2.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab2"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab0"
+        }
       },
-      "name": "Stomach Acid Reducer",
-      "description": "Treats heartburn and acid reflux",
-      "price": 8.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab4"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab1"
+        }
       },
-      "name": "Disposable Face Masks",
-      "description": "Protects against airborne particles",
-      "price": 6.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab5"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab3"
+        }
       },
-      "name": "Hand Sanitizer",
-      "description": "Kills germs on hands",
-      "price": 4.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab6"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab4"
+        }
       },
-      "name": "Muscle Rub",
-      "description": "Relieves sore muscles",
-      "price": 11.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab7"
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab5"
+        }
       },
-      "name": "Fiber Supplement",
-      "description": "Promotes digestive health",
-      "price": 7.49
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "65e272159197d43c4e57ccc3"
-  },
-  "name": "City Meds",
-  "address": "789 Pine Road, Villagetown",
-  "latitude": 41.8781,
-  "longitude": -87.6298,
-  "medicines": [
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9b"
-      },
-      "name": "Ibuprofen",
-      "description": "Nonsteroidal anti-inflammatory drug",
-      "price": 8.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9c"
-      },
-      "name": "Cough Syrup",
-      "description": "Relieves cough symptoms",
-      "price": 12.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9d"
-      },
-      "name": "Aspirin",
-      "description": "Blood thinner and pain reliever",
-      "price": 6.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78a9e"
-      },
-      "name": "Antacid",
-      "description": "Relieves heartburn and indigestion",
-      "price": 4.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa0"
-      },
-      "name": "Vitamin C",
-      "description": "Boosts immune system",
-      "price": 7.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa1"
-      },
-      "name": "Probiotic",
-      "description": "Supports digestive health",
-      "price": 15.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa2"
-      },
-      "name": "Hydrocortisone Cream",
-      "description": "Anti-itch and anti-inflammatory",
-      "price": 11.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa3"
-      },
-      "name": "Thermometer",
-      "description": "Digital thermometer for temperature measurement",
-      "price": 19.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa4"
-      },
-      "name": "Albuterol Inhaler",
-      "description": "Relieves asthma symptoms",
-      "price": 25.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa6"
-      },
-      "name": "Antibiotic Ointment",
-      "description": "Prevents infection in minor cuts",
-      "price": 8.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa7"
-      },
-      "name": "Anti-fungal Cream",
-      "description": "Treats fungal skin infections",
-      "price": 12.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa8"
-      },
-      "name": "Allergy Eye Drops",
-      "description": "Relieves itchy and red eyes",
-      "price": 9.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aa9"
-      },
-      "name": "Blood Pressure Monitor",
-      "description": "Measures blood pressure at home",
-      "price": 45.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aab"
-      },
-      "name": "Throat Lozenges",
-      "description": "Soothes sore throat",
-      "price": 3.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aac"
-      },
-      "name": "Anti-diarrheal Medication",
-      "description": "Controls diarrhea symptoms",
-      "price": 7.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aad"
-      },
-      "name": "Multivitamin",
-      "description": "Provides essential vitamins and minerals",
-      "price": 10.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aae"
-      },
-      "name": "Motion Sickness Pills",
-      "description": "Prevents motion sickness",
-      "price": 14.49
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78aaf"
-      },
-      "name": "Pain Relief Patch",
-      "description": "Provides long-lasting pain relief",
-      "price": 9.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab0"
-      },
-      "name": "Sunscreen SPF 30",
-      "description": "Protects against harmful UV rays",
-      "price": 12.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab1"
-      },
-      "name": "Dental Floss",
-      "description": "Promotes oral hygiene",
-      "price": 2.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab3"
-      },
-      "name": "Sleep Aid",
-      "description": "Promotes restful sleep",
-      "price": 15.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab4"
-      },
-      "name": "Disposable Face Masks",
-      "description": "Protects against airborne particles",
-      "price": 6.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab5"
-      },
-      "name": "Hand Sanitizer",
-      "description": "Kills germs on hands",
-      "price": 4.99
-    },
-    {
-      "_id": {
-        "$oid": "65e2ee950d2e671cf5b78ab6"
-      },
-      "name": "Muscle Rub",
-      "description": "Relieves sore muscles",
-      "price": 11.99
-    }
-  ]
-}]
+      {
+        "_id": {
+          "$oid": "65e2ee950d2e671cf5b78ab6"
+        }
+      }
+    ]
+  }
+]
