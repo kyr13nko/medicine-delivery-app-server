@@ -16,7 +16,7 @@ const orderSchema = new Schema(
         _id: String,
         name: String,
         description: String,
-        price: String,
+        price: Number,
       },
     ],
   },
@@ -46,7 +46,7 @@ const addSchema = Joi.object({
       _id: Joi.string(),
       name: Joi.string(),
       description: Joi.string(),
-      price: Joi.string(),
+      price: Joi.number(),
     })
   ),
 });
