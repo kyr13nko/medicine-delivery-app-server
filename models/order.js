@@ -13,8 +13,10 @@ const orderSchema = new Schema(
     },
     medicines: [
       {
+        _id: String,
         name: String,
         description: String,
+        price: String,
       },
     ],
   },
@@ -41,8 +43,10 @@ const addSchema = Joi.object({
   }),
   medicines: Joi.array().items(
     Joi.object({
+      _id: Joi.string(),
       name: Joi.string(),
       description: Joi.string(),
+      price: Joi.string(),
     })
   ),
 });
