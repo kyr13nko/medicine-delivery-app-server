@@ -1,6 +1,5 @@
 const { Medicine } = require("../models/medicine");
 
-// const HttpError = require("../helpers/HttpError");
 const ctrlWrapper = require("../helpers/ctrlWrapper");
 
 const listMedicines = async (req, res) => {
